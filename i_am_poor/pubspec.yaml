@@ -40,5 +40,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - images/diamond.png
+    - images/penny.png
 
