@@ -1,4 +1,4 @@
-name: i_am_rich
+name: bobux_generator
 description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
@@ -39,6 +39,4 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
   uses-material-design: true
-  assets:
-    - images/penny.png
 
